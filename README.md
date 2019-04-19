@@ -9,11 +9,11 @@ A "feature request" is a request for a new feature that will be added onto an ex
 * Client: A selection list of clients (use "Client A", "Client B", "Client C")
 * Priority: Undetermined, Critical, Major, Trivial are possible values for priority.
 * Status: The following are the possible statuses for the feature request
-o	Open: The feature request is new and it is waiting to be looked at. 
-o	In Progress: The feature request is assigned to somebody to be worked on. 
-o	Awaiting Verification: The work was completed and waiting for verification. It is typically assigned to a QA person for verification.
-o	Closed: The feature request is completed
-o	Rejected: Some feature requests are not worked on and they can simply be rejected.
+  * Open: The feature request is new and it is waiting to be looked at. 
+  * In Progress: The feature request is assigned to somebody to be worked on. 
+  *	Awaiting Verification: The work was completed and waiting for verification. It is typically assigned to a QA person for verification.
+  *	Closed: The feature request is completed
+  *	Rejected: Some feature requests are not worked on and they can simply be rejected.
 * Target Date: The date that the client is hoping to have the feature.
 * Product Area: A selection list of product areas (use 'Policies', 'Billing', 'Claims', 'Reports'). 
 * Assignee: The person who needs to work on the feature request.
