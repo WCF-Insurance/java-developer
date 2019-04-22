@@ -19,7 +19,7 @@ A "feature request" is a request for a new feature that will be added onto an ex
 * Product Area: A selection list of product areas (use 'Policies', 'Billing', 'Claims', 'Reports'). 
 * Assignee: The person who needs to work on the feature request.
 # Tech Stack
-No need to have any UI implemented as part of this exercise. Java is the language we want you use. You can choose any version of Java. Data should be stored in a relational database, we prefer Hibernate but you can use whatever you like. You might want to write some test classes to test your application and you are free to choose JUnit, TestNG or something similar.
+No need to have any UI implemented as part of this exercise. Java is the language we want you use. You can choose any version of Java. Data should be stored in a relational database, we prefer Hibernate but you can use whatever you like. Optionally, you might want to write some test classes to test your application and you are free to choose JUnit, TestNG or something similar.
 # Guidelines
 Build your own public repo on GitHub, and call it whatever you like. Build your solution in your repo, and include a README.md file that contains some instructions and notes about design choices you made that you want us be aware while reviewing your code. Email the URL for your github repo to your hiring manager once you begin the project so we can review your progress. Once your project is completed, please email your hiring manager.
 
