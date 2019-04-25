@@ -25,6 +25,6 @@ Build your own public repo on GitHub, and call it whatever you like. Build your 
 
 One of the major goals in this project is to see how you fill in ambiguities in your own creative way. There is no such thing as a perfect project here, just interpretations of the instructions above, so be creative in your approach.
 
-We want to be respectful of your time and set realistic expectations for submission. Do not worry about how UI will interact with the backend. Just assume that it is part of our framework and start writing your code using Java service classes. For example, you might start with FeatureRequestAppService class as the entry point to the backend services you will provide for this application.
+We want to be respectful of your time and set realistic expectations for submission. Do not worry about how UI will interact with the backend. Just assume that it is part of our framework and start writing your code using Java service classes. For example, you might start with FeatureRequestAppService class as the entry point to the backend services you will provide for this application. Just remember that the application serves a Web Application and a Java GUI Appplication.
 
 Thank you for your time. We are excited to review your project!
