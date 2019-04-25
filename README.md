@@ -2,7 +2,7 @@
 Technical evaluation for Java developer candidates
 
 # Feature Request App
-Build the backend of an application that allows the user to manage "feature requests". No need to build UI as part of this exercise.
+Build the backend of an application that allows the user to manage "feature requests". The application serves a Web Application and a Java GUI Appplication. No need to build UI as part of this exercise. 
 
 A "feature request" is a request for a new feature that will be added onto an existing piece of software. Assume that the user is an employee at WCF who would be entering this information after having some correspondence with a client that is requesting the feature. The necessary fields are:
 * Title: A short, descriptive name of the feature request.
